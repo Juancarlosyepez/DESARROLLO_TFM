@@ -1,8 +1,0 @@
-R^2 para Kriging: 0.8085329880606867
-R^2 para Redes Neuronales: 0.6117477829970295
-MSE para Kriging: 65.74228553979334
-MSE para Redes Neuronales: 133.31063065713528
-RMSE para Kriging: 8.108161662164449
-RMSE para Redes Neuronales: 11.546022287226682
-Coeficiente de correlación (R) para Kriging: 0.8994640721398489
-Coeficiente de correlación (R) para Redes Neuronales: 0.7826401010134718
