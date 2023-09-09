@@ -1,0 +1,9 @@
+<!DOCTYPE gridGeometry>
+<Grid type="Point_set" name="compositos">
+ <Geometry size="3562"/>
+ <Properties>
+  <GsTLGridProperty filepath="properties/property__lito.sgems" type="Continuous" name="lito"/>
+ </Properties>
+ <Regions/>
+ <PropertyGroups/>
+</Grid>

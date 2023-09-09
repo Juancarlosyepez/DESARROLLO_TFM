@@ -1,0 +1,29 @@
+<parameters>  <algorithm name="kriging" /> 
+  <ouput_kriging_variance  value="1"  /> 
+  <output_n_samples_  value="1"  /> 
+  <output_average_distance  value="1"  /> 
+  <output_sum_weights  value="1"  /> 
+  <output_sum_positive_weights  value="1"  /> 
+  <output_lagrangian  value="1"  /> 
+  <Grid_Name value="" region=""  /> 
+  <Property_Name  value="Grid_OK" /> 
+  <Hard_Data  grid="Drill Hole"   property="Fe"   region="Grid_OK"  /> 
+  <Kriging_Type  type="Ordinary Kriging (OK)" >
+  <parameters />
+</Kriging_Type>
+  <do_block_kriging  value="0"  /> 
+  <npoints_x  value="15" /> 
+  <npoints_y  value="15" /> 
+  <npoints_z  value="15" /> 
+  <Min_Conditioning_Data  value="1" /> 
+  <Max_Conditioning_Data  value="12" /> 
+  <Search_Ellipsoid  value="249.757 244.123 96.63
+0 30 0" />
+  <AdvancedSearch  use_advanced_search="0"></AdvancedSearch>
+  <Variogram  nugget="75.01" structures_count="1"  >
+  <structure_1  contribution="372.92"  type="Spherical"   >
+    <ranges max="249.757"  medium="244.123"  min="96.63"   />
+    <angles x="0"  y="30"  z="0"   />
+  </structure_1>
+</Variogram>
+</parameters> 

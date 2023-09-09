@@ -1,0 +1,7 @@
+<!DOCTYPE gridGeometry>
+<Grid type="Cgrid" name="Grid_OK">
+ <Geometry dx="15" dy="15" dz="15" rotation_z_angle="0" ox="189070" oy="8438580" nx="65" oz="3200" ny="58" nz="41"/>
+ <Properties/>
+ <Regions/>
+ <PropertyGroups/>
+</Grid>

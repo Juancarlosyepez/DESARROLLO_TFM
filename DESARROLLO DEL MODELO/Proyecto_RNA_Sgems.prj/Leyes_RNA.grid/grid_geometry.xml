@@ -1,0 +1,15 @@
+<!DOCTYPE gridGeometry>
+<Grid type="Cgrid" name="Leyes_RNA">
+ <Geometry dx="15" dy="15" dz="15" rotation_z_angle="0" ox="189070" oy="8438580" nx="65" oz="3200" ny="58" nz="41"/>
+ <Properties>
+  <GsTLGridProperty filepath="properties/property__Cu.sgems" type="Continuous" name="Cu"/>
+  <GsTLGridProperty filepath="properties/property__Fe.sgems" type="Continuous" name="Fe"/>
+  <GsTLGridProperty filepath="properties/property__MET.sgems" type="Continuous" name="MET"/>
+  <GsTLGridProperty filepath="properties/property__S.sgems" type="Continuous" name="S"/>
+  <GsTLGridProperty filepath="properties/property__X.sgems" type="Continuous" name="X"/>
+  <GsTLGridProperty filepath="properties/property__Y.sgems" type="Continuous" name="Y"/>
+  <GsTLGridProperty filepath="properties/property__Z.sgems" type="Continuous" name="Z"/>
+ </Properties>
+ <Regions/>
+ <PropertyGroups/>
+</Grid>

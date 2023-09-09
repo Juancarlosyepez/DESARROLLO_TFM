@@ -1,0 +1,9 @@
+<!DOCTYPE gridGeometry>
+<Grid type="Cgrid" name="Modelo_Lito">
+ <Geometry dx="20" dy="20" dz="20" rotation_z_angle="0" ox="189000" oy="8438418" nx="65" oz="3200" ny="54" nz="40"/>
+ <Properties>
+  <GsTLGridProperty filepath="properties/property__Lito_code.sgems" type="Continuous" name="Lito_code"/>
+ </Properties>
+ <Regions/>
+ <PropertyGroups/>
+</Grid>

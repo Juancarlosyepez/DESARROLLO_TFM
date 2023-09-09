@@ -1,0 +1,14 @@
+<!DOCTYPE gridGeometry>
+<Grid type="Point_set" name="Drill Hole">
+ <Geometry size="3562"/>
+ <Properties>
+  <GsTLGridProperty filepath="properties/property__Cu.sgems" type="Continuous" name="Cu"/>
+  <GsTLGridProperty filepath="properties/property__Fe.sgems" type="Continuous" name="Fe"/>
+  <GsTLGridProperty filepath="properties/property__MET.sgems" type="Continuous" name="MET"/>
+  <GsTLGridProperty filepath="properties/property__S.sgems" type="Continuous" name="S"/>
+ </Properties>
+ <Regions>
+  <GsTLGridRegion filepath="regions/region__Grid_OK.sgems" name="Grid_OK"/>
+ </Regions>
+ <PropertyGroups/>
+</Grid>
